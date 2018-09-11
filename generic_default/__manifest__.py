@@ -50,7 +50,7 @@
 
     'port': '118069',
     'repos': [
-        {'usr': 'jobiols', 'repo': 'cl-vhing', 'branch': '11.0'},
+        {'usr': 'marionumza', 'repo': 'cl-generico', 'branch': '11.0'},
         {'usr': 'ingadhoc', 'repo': 'odoo-argentina', 'branch': '11.0'},
         {'usr': 'ingadhoc', 'repo': 'account-financial-tools', 'branch': '11.0'},
         {'usr': 'ingadhoc', 'repo': 'account-payment', 'branch': '11.0'},
